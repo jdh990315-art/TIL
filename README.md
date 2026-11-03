@@ -6,3 +6,4 @@
 - [10월 30일](https://github.com/jdh990315-art/TIL/blob/826365b0ae10b909dd041a681f9ae15e4a9a24ad/2026.10.30.md)
 # 11월
 - [11월 2일](https://github.com/jdh990315-art/TIL/blob/28f9d299dd23fac3792dcc3635fa5610bd3d622f/2026.11.02.md)
+- [11월 3일](https://github.com/jdh990315-art/TIL/blob/a7b03e670e79bf4096808cdc0f2a8cdf8541cae0/2026.11.03.md)
